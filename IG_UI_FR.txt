@@ -1,0 +1,28 @@
+IG_UI_FR = {
+	IGUI_VehicleName93townCar = "'93 Lincoln Town Car",
+	IGUI_VehicleName93townCarLimo = "'93 Lincoln Town Car Limousine",
+
+	IGUI_VehiclePartLIN93BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartLIN93BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartLIN93SpareTire = "Roue de secours",
+
+	IGUI_VehiclePartLIN93WindshieldArmor = "Blindage de Pare-brise",
+	IGUI_VehiclePartLIN93WindshieldRearArmor = "Blindage de Pare-brise arrière",
+	IGUI_VehiclePartLIN93DoorFrontLeftArmor = "Blindage de Portière avant gauche",
+	IGUI_VehiclePartLIN93DoorFrontRightArmor = "Blindage de Portière avant droite",
+	IGUI_VehiclePartLIN93DoorRearLeftArmor = "Blindage de Portière arrière gauche",
+	IGUI_VehiclePartLIN93DoorRearRightArmor = "Blindage de Portière arrière droite",
+	IGUI_VehiclePartLIN93WindowMiddleLeftArmor = "Blindage de Vitre Centrale gauche",
+	IGUI_VehiclePartLIN93WindowMiddleRightArmor = "Blindage de Vitre Centrale droite",
+
+	IGUI_VehiclePartWindowMiddleLeft = "Vitre Centrale gauche",
+	IGUI_VehiclePartWindowMiddleRight = "Vitre Centrale droite",
+	IGUI_VehiclePartWindowSunroof = "Toit ouvrant",
+
+	IGUI_VehiclePartLIN93Trunk = "Coffre",
+	IGUI_VehiclePartLIN93Floor = "Plancher",
+	IGUI_VehiclePartLIN93Minibar = "Minibar",
+	IGUI_VehiclePartLIN93Trunkrack = "Rangement de coffre",
+
+	IGUI_CraftCategory_LIN93 = "'93 Lincoln Town Car",
+}
