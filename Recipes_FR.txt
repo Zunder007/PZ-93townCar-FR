@@ -16,4 +16,13 @@ Recipes_FR = {
 	Recipe_Make_LIN93_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_LIN93_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
 	Recipe_Make_LIN93_Windshield_Armor_with_lights = "Fabriquer Blindage de Pare-brise avec lumières",
+
+	Recipe_Dismantle_Town_Car_Armor = "Démonter Blindage",
+	Recipe_Dismantle_Town_Car_Door = "Démonter Portière",
+	Recipe_Dismantle_Town_Car_Lid = "Démonter Coffre",
+	Recipe_Dismantle_Town_Car_Seat = "Démonter Siège",
+	Recipe_Dismantle_Town_Car_Tire = "Démonter Pneu",
+	Recipe_Dismantle_Town_Car_Trunk_Rack = "Démonter Rangement de coffre",
+	Recipe_Make_Middle_Window_Armor = "Fabriquer Blindage",
+	Recipe_Make_Trunk_Rack = "Fabriquer Rangement de coffre",
 }
